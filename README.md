@@ -5,6 +5,6 @@ Usage(on Linux or Mac):
 ```
   ./cracker [7z_file] [dictionary]
 ```
-The dicitonary should have the format: 
-[word1]
+The dicitonary should have the format: <br/>
+[word1]<br/>
 [word2].. etc. Highly recommended generated a dicitonary using python or other srcipts. 
