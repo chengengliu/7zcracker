@@ -1,3 +1,13 @@
+#!/bin/bash
+
+yellow=`tput setaf 3`
+red=`tput setaf 1`
+green=`tput setaf 2`
+reset=`tput sgr0`
+cracked=1
+
+figlet  cracker
+
 function ctrlc(){
 	echo -e "\n${red}Ctrl-C caught. Quiting!${reset}"
 	exit 1
